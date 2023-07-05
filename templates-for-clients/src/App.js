@@ -7,15 +7,19 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <code>src/App.js</code> <br>
+            </br>
+            You have what it takes, seek opportunities and you will find them. <br>
+            </br>
+          all the knowledges belong to people.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://wikipedia.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Wikipedia
         </a>
       </header>
     </div>
